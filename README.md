@@ -1,6 +1,6 @@
 # cook-book
-
-This template should help get you started developing with Vue 3 in Vite.
+<img src="https://github.com/jude4/receipt-app/blob/master/public/assets/checkout.PNG" raw=true>
+A receipt guide book.
 
 ## Recommended IDE Setup
 
