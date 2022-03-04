@@ -1,5 +1,5 @@
 # cook-book
-<img src="https://github.com/jude4/receipt-app/blob/master/public/assets/checkout.PNG" raw=true>
+<img src="https://github.com/jude4/receipt-app/blob/master/public/assets/cook-book.PNG" raw=true>
 A receipt guide book.
 
 ## Recommended IDE Setup
