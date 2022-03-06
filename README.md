@@ -31,7 +31,7 @@ npm install
 ```sh
 npm run dev
 ```
-### Compile Stage Server for Development
+### Run Stage Server for Development
 
 ```sh
 npm run start
