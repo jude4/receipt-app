@@ -1,0 +1,69 @@
+{
+    "receipts": [
+        {
+            "id": "1",
+            "title": "Quick Fried Rice",
+            "image": "/assets/receipt/1.png",
+            "description": "Fast and easy bacon fried rice.",
+            "ingredients": [
+                "1 (10 ounce) package frozen mixed vegetables",
+                "2 eggs",
+                "4 cups cooked white rice",
+                "6 slices bacon",
+                "½ cup snow peas",
+                "2 carrots, diced",
+                "2 tablespoons soy sauce",
+                "½ teaspoon salt"
+            ],
+            "directions": [
+                "Prepare frozen vegetables according to package instructions and set aside.",
+                "Scramble the eggs in a medium skillet and chop into small bits; set aside.",
+                "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside, reserving skillet with bacon grease.",
+                "Place the rice in the skillet of bacon grease and saute for 2 to 3 minutes, until coated. Mix in soy sauce, mixed vegetables, carrots and peas. Cook for 20 minutes before stirring the bacon and eggs into the rice; cook for another 10 minutes, stirring, and serve."
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Sad Cake",
+            "image": "/assets/receipt/2.png",
+            "description": "This cake is called sad cake because the cake looks sad. It actually 'falls' during baking and is a flat cake. It may be sad looking, but it is moist, chewy and sweet. It does not need a frosting.",
+            "ingredients": [
+                "2 cups biscuit baking mix ",
+                "2 ¼ cups packed brown sugar ",
+                "4 eggs",
+                "½ cup vegetable oil",
+                "1 cup flaked coconut",
+                "1 cup chopped pecans",
+                "1 teaspoon vanilla extract "
+            ],
+            "directions": [
+                "Preheat oven to 350 degrees F (175 degrees C). Grease and flour one 9x13 inch pan.",
+                "Mix thoroughly together the biscuit mix, brown sugar, eggs, flaked coconut, chopped pecans, and vanilla. Pour batter into prepared pan.",
+                "Bake at 350 degrees F (175 degrees C) for 35 to 40 minutes. Allow cake to cool before cutting."
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Apricot Chicken Provencal",
+            "image": "/assets/receipt/3.png",
+            "description": "Delicious French-inspired chicken dish that features herbes de Provence and an apricot sauce. My ingredient amounts are estimated, particularly with the herbes de Provence. I made up this dish on the fly, and I generally cook based on smell and taste rather than strict measurements. It is important to note that using too much herbs de Provence may make the dish smell or taste too much like fancy soap, due to the lavender in herbs de Provence. Use your best judgment based on your personal tastes. Enjoy!",
+            "ingredients": [
+                "8 chicken drumsticks, with skin",
+                "1 teaspoon salt, or more to taste",
+                "3 tablespoons herbes de Provence",
+                "2 tablespoons olive oil",
+                "2 garlic cloves, minced",
+                "1 tablespoon herbes de Provence",
+                "6 fresh apricots, pitted and chopped",
+                "½ cup apricot preserves"
+            ],
+            "directions": [
+                "Preheat an oven to 400 degrees F (200 degrees C). Grease a baking dish.",
+                "Season the chicken drumsticks with the salt and liberally rub with 3 tablespoons herbes de Provence.",
+                "Heat the olive oil in a large skillet over medium heat. Cook the garlic in the hot oil until fragrant, 3 to 5 minutes. Add the seasoned chicken to the skillet and cook, turning to brown on all sides, 5 to 10 minutes. Sprinkle 1 tablespoon herbes de Provence, assuring all sides of chicken are covered with herbs. Transfer the chicken to the prepared baking dish, reserving the liquid.",
+                "Bake in the preheated oven until no longer pink at the bone and the juices run clear, about 20 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+                "While the chicken bakes, add the apricots and the apricot preserves to the skillet, scraping the bottom of the skillet with the back of a wooden spoon. Reduce heat to low and simmer until the chicken is cooked through. Add the chicken to the skillet and simmer with the sauce another 5 minutes. Spoon the sauce over the chicken to serve."
+            ]
+        }
+    ]
+}

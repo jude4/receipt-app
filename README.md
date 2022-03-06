@@ -1,6 +1,6 @@
 # cook-book
 <img src="https://github.com/jude4/receipt-app/blob/master/public/assets/cook-book.PNG" raw=true>
-A receipt guide book.
+A Food receipt guide book.
 
 ## Prerequisite
 Must have a basic knowledge of the following web technologies:
@@ -10,6 +10,7 @@ Must have a basic knowledge of the following web technologies:
 4. Vue Router
 5. VueSax
 6. JavaScript
+7. Node
 
 ## Recommended IDE Setup
 
@@ -29,6 +30,11 @@ npm install
 
 ```sh
 npm run dev
+```
+### Compile Stage Server for Development
+
+```sh
+npm run start
 ```
 
 ### Compile and Minify for Production
